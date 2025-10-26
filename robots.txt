@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhaexplorer.vercel.app/sitemap.xml

@@ -1,13 +1,10 @@
 {
-  "name": "MHA – AI Research & Intelligence",
+  "name": "MHA",
   "short_name": "MHA",
-  "description": "MHA is an AI research and intelligence initiative focused on applied machine learning, autonomous systems, ethical AI governance, and intelligent digital frameworks.",
   "start_url": "/",
-  "scope": "/",
   "display": "standalone",
   "background_color": "#080808",
   "theme_color": "#00e5ff",
-  "orientation": "any",
   "icons": [
     {
       "src": "/icons/icon-192.png",
